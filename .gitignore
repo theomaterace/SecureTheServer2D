@@ -1,0 +1,61 @@
+# System plików tymczasowych
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Pliki użytkownika i IDE
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Visual Studio / Rider
+.vscode/
+.vs/
+.idea/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Linux
+.mono/
+
+# Pliki generowane przez Unity
+*.cs.meta
+*.unity.meta
+*.prefab.meta
+*.mat.meta
+*.anim.meta
+*.controller.meta
+*.mask.meta
+
+# Asset Serialization  
+*.pidb.meta
+
+# Build artefacts
+*.apk
+*.aab
+*.unitypackage
+
+# Backup
+*_BackUpThisFolder_BAK/
+
+# Crash dumps
+crash_logs/
+
+# Pluginowe cache
+sysinfo.txt
