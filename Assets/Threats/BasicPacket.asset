@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: BasicPacket
   m_EditorClassIdentifier: 
   threatName: Basic Packet
-  icon: {fileID: -4890927445193513128, guid: 713ed9f7cae0f894abef0f6146ef4e5b, type: 3}
+  icon: {fileID: 21300000, guid: 713ed9f7cae0f894abef0f6146ef4e5b, type: 3}
   damageValue: 10
   speed: 1
   attackType: 0

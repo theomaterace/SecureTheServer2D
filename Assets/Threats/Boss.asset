@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d896f650c3b75164589d4612a0b33e09, type: 3}
   m_Name: Boss
   m_EditorClassIdentifier: 
-  threatName: Basic Packet
-  icon: {fileID: -4890927445193513128, guid: 713ed9f7cae0f894abef0f6146ef4e5b, type: 3}
+  threatName: Ransomware Boss
+  icon: {fileID: 21300000, guid: 0b78f94fbe31ffb4cae3110cf9eb2661, type: 3}
   damageValue: 50
   speed: 0.5
   attackType: 2
