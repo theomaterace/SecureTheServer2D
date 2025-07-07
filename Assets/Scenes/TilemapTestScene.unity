@@ -346,9 +346,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87a1ede9c2b61c445a75859564172890, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  threatPrefab: {fileID: 6860351705726681545, guid: 8efc2f205aea8694a9a4968a071ed47f, type: 3}
+  waveConfig: {fileID: 11400000, guid: 458bdbf6e824b4a4ab22213f555d8102, type: 2}
   spawnPoint: {fileID: 1774204821}
-  spawnInterval: 2
 --- !u!4 &862328951
 Transform:
   m_ObjectHideFlags: 0
